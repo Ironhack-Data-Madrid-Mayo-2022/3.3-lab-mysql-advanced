@@ -1,0 +1,1 @@
+SELECT * FROM publications.most_profiting_authors;
